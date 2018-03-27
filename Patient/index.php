@@ -1,0 +1,1 @@
+<a href="/msa/logout.php">logout</a>
